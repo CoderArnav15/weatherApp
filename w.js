@@ -1,3 +1,4 @@
+
 var x = document.getElementById("demo");
 var images = [
   "sunny",
